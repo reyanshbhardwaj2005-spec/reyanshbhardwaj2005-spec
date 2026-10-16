@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7B61FF,100:C850FF&height=200&section=header&text=Reyansh Bhardwaj&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Java%20Programmer%20%7C%20Backend%20Learner&descSize=16&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7B61FF,100:C850FF&height=200&section=header&text=Reyansh%20Bhardwaj&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Java%20Programmer%20%7C%20Backend%20Learner&descSize=16&descAlignY=60&animation=fadeIn" />
 
 # Hey there, I'm Reyansh Bhardwaj 👋
 
