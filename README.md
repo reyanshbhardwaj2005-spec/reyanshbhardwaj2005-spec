@@ -11,23 +11,20 @@
 
 # Hey there, I'm Reyansh Bhardwaj 👋
 
-### `Android Developer` · `Java Programmer` · `Backend Learner`
+### `Android Developer` · `Java Programmer` · `Spring boot Developer`
 
 *Building useful applications. Solving real-world problems. Growing every day.*
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="(https://www.linkedin.com/in/reyansh-bhardwaj-6b2b59384/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:reyanshbhardwaj.2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=7B61FF&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=reyanshbhardwaj2005-spec&label=PROFILE%20VIEWS&color=7B61FF&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -39,7 +36,7 @@
 
 - 📱 Focused on **Android application development**.
 - ☕ Building my programming foundation with **Java**.
-- 🚀 Learning **Spring Boot and REST APIs** for backend development.
+- 🚀 Focused on **Spring Boot and REST APIs** for backend development.
 - 🗄️ Exploring **MySQL and database design**.
 - 🧠 Interested in problem-solving, clean architecture, and innovative ideas.
 - 🎯 My goal is to build complete applications, from mobile UI to backend services.
@@ -52,19 +49,19 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python&theme=light" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,dart&theme=light" alt="Programming languages"/>
 
 ### Android Development
 
-<img src="https://skillicons.dev/icons?i=androidstudio,androidstudio&theme=light" alt="Android development tools"/>
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android development tools"/>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,postman&theme=light" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=spring,mysql,postman,postgres,redis,supabase,&theme=light" alt="Backend technologies"/>
 
 ### Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=light" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker&theme=light" alt="Developer tools"/>
 
 </div>
 
