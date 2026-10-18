@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/reyansh-bhardwaj-6b2b59384/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:reyanshbhardwaj.2005@gmail.com">
+<a href="reyanshbhardwaj.2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -75,7 +75,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Android Application
+### 📱 REALITY LENS
 
 <a href="https://github.com/reyanshbhardwaj2005-spec/Reality-Lens-Android-Version.git">
 <img src="https://img.shields.io/badge/ANDROID-APP-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -85,54 +85,53 @@ RealityLens is an application that helps users verify whether information shown 
 
 **Built with:** Java · Android SDK · XML
 
-[🔗 View Project]("https://github.com/reyanshbhardwaj2005-spec/Reality-Lens-Android-Version.git")
+[🔗 View Project](https://github.com/reyanshbhardwaj2005-spec/Reality-Lens-Android-Version.git)
 
 </td>
 <td width="50%" valign="top">
 
-### ☕ Spring Boot API
+### ☕ PYQ MANAGEMENT SYSTEM
 
-<a href="YOUR_BACKEND_PROJECT_URL">
+<a href="https://github.com/reyanshbhardwaj2005-spec/pyq-management-backend-SpringBoot.git">
 <img src="https://img.shields.io/badge/SPRING_BOOT-API-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </a>
 
-A description of your backend project, its REST endpoints, authentication, and database integration.
+This is a PYQ management system designed to help IIIT SONEPAT students to find PYQ's of the college of past years.
 
 **Built with:** Java · Spring Boot · MySQL
 
-[🔗 View Project](YOUR_BACKEND_PROJECT_URL)
+[🔗 View Project](https://github.com/reyanshbhardwaj2005-spec/pyq-management-backend-SpringBoot.git)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🥚 Eggs Controller
+### 🥚 OFFLINE AI AGENT
 
-<a href="YOUR_EGGS_PROJECT_URL">
+<a href="https://github.com/reyanshbhardwaj2005-spec/Offline-AI-chat-assistant.git">
 <img src="https://img.shields.io/badge/ANDROID-FULL_STACK-7B61FF?style=for-the-badge&logo=android&logoColor=white"/>
 </a>
 
 A friends-focused egg tracking application with shared counts and authenticated backend updates.
 
-**Built with:** Android · Java · Spring Boot · JWT
-
-[🔗 View Project](YOUR_EGGS_PROJECT_URL)
+**Built with:** Android · Java · C++ · lamma · XML
+[🔗 View Project](https://github.com/reyanshbhardwaj2005-spec/Offline-AI-chat-assistant.git)
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 Next Big Idea
+### 💡 TALENT NEST
 
-<a href="YOUR_NEXT_PROJECT_URL">
+<a href="https://github.com/reyanshbhardwaj2005-spec/Talent-Nest-Android.git">
 <img src="https://img.shields.io/badge/INNOVATION-IN_PROGRESS-00A6FF?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
 
-Showcase another project that demonstrates your creativity, problem-solving skills, or a new technology.
+This is an online student skill verification project that is ment to be developed to fill the gap between the students and the recruiters and to verify student's skills on college level.
 
-**Built with:** YOUR_TECH_STACK
+**Built with:** Java · Spring Boot · MySQL · Java · Android SDK · XML
 
-[🔗 View Project](YOUR_NEXT_PROJECT_URL)
+[🔗 View Project](https://github.com/reyanshbhardwaj2005-spec/Talent-Nest-Android.git)
 
 </td>
 </tr>
@@ -144,29 +143,13 @@ Showcase another project that demonstrates your creativity, problem-solving skil
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=6C5CE7&icon_color=00A6FF&text_color=334155&bg_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=reyanshbhardwaj2005-spec&show_icons=true&theme=default&hide_border=true&title_color=6C5CE7&icon_color=00A6FF&text_color=334155&bg_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&title_color=6C5CE7&text_color=334155&bg_color=FFFFFF" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyanshbhardwaj2005-spec&layout=compact&theme=default&hide_border=true&title_color=6C5CE7&text_color=334155&bg_color=FFFFFF" alt="Most used languages"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=6C5CE7&line=00A6FF&point=7B61FF&area=true&hide_border=true" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## 🧩 Currently Learning
-
-<div align="center">
-
-| Technology | Focus |
-|:---|:---|
-| ☕ Java | OOP, data structures and problem solving |
-| 📱 Android | App architecture and UI development |
-| 🌱 Spring Boot | REST APIs, authentication and services |
-| 🗄️ MySQL | Relational databases and SQL |
-| 🔌 API Integration | Connecting mobile apps to backend systems |
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyanshbhardwaj2005-spec&bg_color=ffffff&color=6C5CE7&line=00A6FF&point=7B61FF&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -178,10 +161,10 @@ Showcase another project that demonstrates your creativity, problem-solving skil
 
 I'm always interested in learning, collaborating on projects, and exploring new opportunities.
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/reyansh-bhardwaj-6b2b59384/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="reyanshbhardwaj.2005@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="YOUR_PORTFOLIO_URL">
