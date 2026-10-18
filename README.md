@@ -75,7 +75,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📱 REALITY LENS
+###  REALITY LENS
 
 <a href="https://github.com/reyanshbhardwaj2005-spec/Reality-Lens-Android-Version.git">
 <img src="https://img.shields.io/badge/ANDROID-APP-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -90,7 +90,7 @@ RealityLens is an application that helps users verify whether information shown 
 </td>
 <td width="50%" valign="top">
 
-### ☕ PYQ MANAGEMENT SYSTEM
+###  PYQ MANAGEMENT SYSTEM
 
 <a href="https://github.com/reyanshbhardwaj2005-spec/pyq-management-backend-SpringBoot.git">
 <img src="https://img.shields.io/badge/SPRING_BOOT-API-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -107,7 +107,7 @@ This is a PYQ management system designed to help IIIT SONEPAT students to find P
 <tr>
 <td width="50%" valign="top">
 
-### 🥚 OFFLINE AI AGENT
+###  OFFLINE AI AGENT
 
 <a href="https://github.com/reyanshbhardwaj2005-spec/Offline-AI-chat-assistant.git">
 <img src="https://img.shields.io/badge/ANDROID-FULL_STACK-7B61FF?style=for-the-badge&logo=android&logoColor=white"/>
@@ -121,7 +121,7 @@ A friends-focused egg tracking application with shared counts and authenticated 
 </td>
 <td width="50%" valign="top">
 
-### 💡 TALENT NEST
+###  TALENT NEST
 
 <a href="https://github.com/reyanshbhardwaj2005-spec/Talent-Nest-Android.git">
 <img src="https://img.shields.io/badge/INNOVATION-IN_PROGRESS-00A6FF?style=for-the-badge&logo=rocket&logoColor=white"/>
@@ -130,7 +130,6 @@ A friends-focused egg tracking application with shared counts and authenticated 
 This is an online student skill verification project that is ment to be developed to fill the gap between the students and the recruiters and to verify student's skills on college level.
 
 **Built with:** Java · Spring Boot · MySQL · Java · Android SDK · XML
-
 [🔗 View Project](https://github.com/reyanshbhardwaj2005-spec/Talent-Nest-Android.git)
 
 </td>
@@ -148,9 +147,6 @@ This is an online student skill verification project that is ment to be develope
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyanshbhardwaj2005-spec&layout=compact&theme=default&hide_border=true&title_color=6C5CE7&text_color=334155&bg_color=FFFFFF" alt="Most used languages"/>
 
 <br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyanshbhardwaj2005-spec&bg_color=ffffff&color=6C5CE7&line=00A6FF&point=7B61FF&area=true&hide_border=true" alt="GitHub contribution activity"/>
-
 </div>
 
 ---
