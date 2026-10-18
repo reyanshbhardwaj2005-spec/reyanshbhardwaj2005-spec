@@ -17,7 +17,7 @@
 
 <br/>
 
-<a href="(https://www.linkedin.com/in/reyansh-bhardwaj-6b2b59384/)">
+<a href="https://www.linkedin.com/in/reyansh-bhardwaj-6b2b59384/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:reyanshbhardwaj.2005@gmail.com">
@@ -77,15 +77,15 @@
 
 ### 📱 Android Application
 
-<a href="YOUR_ANDROID_PROJECT_URL">
+<a href="https://github.com/reyanshbhardwaj2005-spec/Reality-Lens-Android-Version.git">
 <img src="https://img.shields.io/badge/ANDROID-APP-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </a>
 
-A description of your Android application, the problem it solves, and its most useful features.
+RealityLens is an application that helps users verify whether information shown in screenshots is real or fake. Users can upload a screenshot directly from their mobile device, and the app sends the image to a verification API for analysis.
 
 **Built with:** Java · Android SDK · XML
 
-[🔗 View Project](YOUR_ANDROID_PROJECT_URL)
+[🔗 View Project]("https://github.com/reyanshbhardwaj2005-spec/Reality-Lens-Android-Version.git")
 
 </td>
 <td width="50%" valign="top">
