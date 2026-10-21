@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7B61FF,100:C850FF&height=200&section=header&text=Reyansh%20Bhardwaj&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Java%20Programmer%20%7C%20Backend%20Learner&descSize=16&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7B61FF,100:C850FF&height=200&section=header&text=Reyansh%20Bhardwaj&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Java%20Programmer%20%7C%20Backend%20Developer&descSize=16&descAlignY=60&animation=fadeIn" />
 
 # Hey there, I'm Reyansh Bhardwaj 👋
 
@@ -23,9 +23,9 @@
 <a href="reyanshbhardwaj.2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=reyanshbhardwaj2005-spec&label=PROFILE%20VIEWS&color=7B61FF&style=flat-square" alt="Profile views"/>
-
+<a href="https://reyanshbhardwaj.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </div>
 
 ---
@@ -34,10 +34,10 @@
 
 <img align="right" width="190" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation"/>
 
-- 📱 Focused on **Android application development**.
-- ☕ Building my programming foundation with **Java**.
-- 🚀 Focused on **Spring Boot and REST APIs** for backend development.
-- 🗄️ Exploring **MySQL and database design**.
+- ☕ Building my programming foundation with **Java, Kotlin**.
+- 📱 Focused on **Android/iOS application development**.
+- 🚀 Focused on **Spring Boot, REST APIs, Microservices, AI** for backend development.
+- 🗄️ Focused on **MySQL, PostgreSQL, MongoDB, Redis, Supabase, Room and database design**.
 - 🧠 Interested in problem-solving, clean architecture, and innovative ideas.
 - 🎯 My goal is to build complete applications, from mobile UI to backend services.
 
